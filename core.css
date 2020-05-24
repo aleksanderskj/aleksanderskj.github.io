@@ -2,7 +2,7 @@
 body { 
     margin: 0px; 
     font-family: Helvetica, Arial, sans-serif;
-    
+
 }
 
 
@@ -49,11 +49,7 @@ h1{
     margin-inline-end: 0px;
 
 }
-.beskrivelse {
-    width: 100vw;
-    background-color: rgba(207, 195, 195, 0.247); 
-    height: auto;
-}
+
 
 .dokumentasjon {
     background-color: #b07c83;
