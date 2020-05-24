@@ -18,7 +18,7 @@ body {
 
 .nav_bar>a{
     text-decoration: none;
-    color:#3f3844; 
+    color:##e8e8e8; 
     margin-top: 10px;
     margin-left: 10px;
     margin-bottom: 10px;
@@ -84,6 +84,17 @@ h1{
     padding-left: 10em;
     padding-right: 10em;
     
+}
+
+.footer{
+    color: #f7f7f7;
+    margin: 0px;
+    position: fixed; bottom: 0px;
+    width: 100vw;
+    display: inline-flex;
+    white-space: nowrap;
+    font-size: 1.2em;
+    background-color: #6f2c3f;
 }
 
 
