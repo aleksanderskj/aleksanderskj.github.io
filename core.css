@@ -14,7 +14,7 @@ body {
     display: inline-flex;
     white-space: nowrap;
     font-size: 1.2em;
-    background-color: #DDDDDD;
+    background-color: #6f2c3f;
 }   
 
 .nav_bar>a{
@@ -57,7 +57,7 @@ h1{
 }
 
 .dokumentasjon {
-    background-color: #7395AE;
+    background-color: #b07c83;
     width: 100vw;
     height: auto;
 }
