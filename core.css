@@ -11,7 +11,9 @@ body {
 .header {
     text-align: center;  
     height:30px; 
-    padding-bottom: 10px;
+    margin-top: 0px;
+    padding-top: 1em;
+    padding-bottom: 2em;
     /*margin-bottom: 1px;*/
     background-color: #6f2c3f;
     width: 100vw;
