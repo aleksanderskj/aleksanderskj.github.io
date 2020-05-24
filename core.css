@@ -6,29 +6,7 @@ body {
 }
 
 
-.nav_bar {
-    margin: 0px;
-    position: fixed; top: 0px;
-    width: 100vw;
-    display: inline-flex;
-    white-space: nowrap;
-    font-size: 1.2em;
-    background-color: #6f2c3f;
-}   
 
-.nav_bar>a{
-    text-decoration: none;
-    color:##e8e8e8; 
-    margin-top: 10px;
-    margin-left: 10px;
-    margin-bottom: 10px;
-}
-
-
-.nav_bar>a:hover {
-    
-    color: #f7f7f7;
-}
 
 .header {
     text-align: center;  
@@ -37,8 +15,9 @@ body {
     padding-bottom: 10px;
     margin-top: 10px;
     /*margin-bottom: 1px;*/
-    background-color: rgba(207, 195, 195, 0.247);
+    background-color: #6f2c3f;
     width: 100vw;
+    color: #f7f7f7;
 }
 
 h1{
@@ -49,17 +28,6 @@ h1{
     margin-inline-end: 0px;
 
 }
-
-
-.dokumentasjon {
-    background-color: #b07c83;
-    width: 100vw;
-    height: auto;
-}
-
-
-
-
 
 .linker_dok>a{
     text-decoration: none;
