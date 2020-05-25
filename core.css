@@ -17,7 +17,7 @@ img{
     width: 100vw;
     color: #f7f7f7;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 h1{
