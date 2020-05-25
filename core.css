@@ -47,6 +47,11 @@ span{
     margin-right: 6em;
 }
 
+.person>img{
+    border-radius:50%;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
 
 
 .linker_dok>a{
