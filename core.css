@@ -2,7 +2,6 @@
 body { 
     margin: 0px; 
     font-family: Helvetica, Arial, sans-serif;
-    background-color:  #6f2c3f;
 }
 
 
@@ -31,7 +30,7 @@ h1{
 
 
 .dokumentasjon {
-    background-color: #b07c83;
+    background-color: rgba(207, 195, 195, 0.247);
     width: 100vw;
     height: auto;
 }
@@ -42,14 +41,19 @@ h1{
 
 .linker_dok>a{
     text-decoration: none;
-    color:#3f3844; 
+    color:black; 
+    background-color: #b07c83;
     width: 100vw;
+    
 }
 
 
 .linker_dok>a:hover {
     
     color: #f7f7f7;
+    background-color: rgba(207, 195, 195, 0.247);
+    border-color: #b07c83;
+    border-radius: 10px;
 }
 
 .medlemmer {
