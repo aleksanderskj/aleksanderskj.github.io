@@ -35,7 +35,15 @@ h1{
     height: auto;
 }
 
+.person{
+    display: flex;
+}
 
+span{
+    border: 5px;
+    border-radius: 10px;
+    border-color: #b07c83;
+}
 
 
 
