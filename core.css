@@ -44,6 +44,7 @@ h1{
     color:black; 
     background-color: #b07c83;
     width: 100vw;
+    padding: 1em;
     
 }
 
@@ -52,8 +53,8 @@ h1{
     
     color: #f7f7f7;
     background-color: rgba(207, 195, 195, 0.247);
-    border-color: #b07c83;
     border-radius: 10px;
+    border: #b07c83;
 }
 
 .medlemmer {
