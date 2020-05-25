@@ -37,13 +37,14 @@ h1{
 
 .person{
     display: flex;
-    margin-right: 2em;
 }
 
 span{
     border: 2px solid;
     border-radius: 10px;
     border-color: #b07c83;
+    padding: 1em;
+    margin-right: 6em;
 }
 
 
