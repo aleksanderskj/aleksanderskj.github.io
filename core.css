@@ -37,6 +37,7 @@ h1{
 
 .person{
     display: flex;
+    justify-content: space-between;
 }
 
 span{
