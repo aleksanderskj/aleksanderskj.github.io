@@ -15,7 +15,7 @@ body {
     width: 100vw;
     color: #f7f7f7;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 h1{
