@@ -45,6 +45,9 @@ h1{
     background-color: #b07c83;
     width: 100vw;
     padding: 1em;
+    border: 5px; 
+    border-color: #b07c83;
+    border-radius: 10px;
     
 }
 
