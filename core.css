@@ -37,11 +37,11 @@ h1{
 
 .person{
     display: flex;
-    justify-content: space-between;
+    margin-right: 2em;
 }
 
 span{
-    border: 5px solid;
+    border: 2px solid;
     border-radius: 10px;
     border-color: #b07c83;
 }
@@ -54,7 +54,7 @@ span{
     background-color: #b07c83;
     width: 100vw;
     padding: 1em;
-    border: 5px solid; 
+    border: 2px solid; 
     border-color: #b07c83;
     border-radius: 10px;
     
